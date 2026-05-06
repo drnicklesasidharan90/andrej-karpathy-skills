@@ -26,3 +26,5 @@ If you want the same content as a reusable skill under `~/.cursor/skills`, use [
 ## For contributors
 
 When you change the four principles, keep **[`CLAUDE.md`](CLAUDE.md)** and **[`.cursor/rules/karpathy-guidelines.mdc`](.cursor/rules/karpathy-guidelines.mdc)** in sync. If the published skill/plugin text should match, update **[`skills/karpathy-guidelines/SKILL.md`](skills/karpathy-guidelines/SKILL.md)** as well.
+
+See **[`MAINTAINING.md`](MAINTAINING.md)** for the full file inventory, sync checklist, and constraints downstream consumers depend on.
